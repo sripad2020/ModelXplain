@@ -150,8 +150,8 @@ Raw Data (signal_metrics.csv)
 ## 📊 Metrics (Example)
 
 - **Random Forest Baseline**  
-  - R² ≈ 0.82  
-  - MAE ≈ 5.3 ms  
+  - R² ≈ 0.80
+  - MAE ≈ 18.11 
 
 - **SLM Inference**  
   - Produces interpretable JSON outputs.  
