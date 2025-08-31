@@ -15,7 +15,7 @@ from peft import LoraConfig, get_peft_model
 
 
 BASE_MODEL = "distilgpt2"
-CORPUS = r"C:\Users\sripa\OneDrive\Desktop\slm\code_train\distill\corpus.jsonl"  # produced by your distill step
+CORPUS = r"Path to jsonl corpus"  # produced by your distill step
 OUTDIR = "slm/out-lora-no-trl"
 MAX_LEN = 1024
 

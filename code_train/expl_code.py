@@ -11,7 +11,7 @@ import shap
 # -----------------------------
 # CONFIG — change if needed
 # -----------------------------
-DATA = r"C:\Users\sripa\OneDrive\Desktop\slm\data\signal_metrics.csv"  # your CSV
+DATA = "CSV file"  # your CSV
 DISTILL_DIR = Path("distill")
 PRE_PATH = DISTILL_DIR / "pre.pkl"
 FS_PATH = DISTILL_DIR / "fs.pkl"

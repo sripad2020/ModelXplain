@@ -9,7 +9,7 @@ from sklearn.feature_selection import SelectKBest, f_regression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import r2_score, mean_absolute_error
 
-DATA = r'C:\Users\sripa\OneDrive\Desktop\slm\data\signal_metrics.csv'
+DATA = r'csv file path'
 OUT = Path("distill"); OUT.mkdir(parents=True, exist_ok=True)
 TARGET = "Latency (ms)"
 
